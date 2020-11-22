@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "varijableVježba4", "varijableVježba4\varijableVježba4.csproj", "{8AD9C05D-02E5-40CD-AC1A-4B16D82850EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD9C05D-02E5-40CD-AC1A-4B16D82850EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD9C05D-02E5-40CD-AC1A-4B16D82850EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD9C05D-02E5-40CD-AC1A-4B16D82850EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD9C05D-02E5-40CD-AC1A-4B16D82850EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15797188-C8B9-49CE-B782-2E5EB2290E55}
+	EndGlobalSection
+EndGlobal
